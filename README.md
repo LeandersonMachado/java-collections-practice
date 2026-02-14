@@ -7,7 +7,6 @@ Projeto com 10 desafios práticos em Java abordando:
 - Tratamento de exceções
 - Testes unitários com JUnit 5
 
-Todos os desafios (exceto o primeiro, que utiliza entrada via console)
-possuem testes automatizados.
+Todos os desafios possuem testes automatizados.
 
 Projeto com foco em boas práticas e código testável.
